@@ -3,6 +3,8 @@ from flask import Flask, request
 import json
 from package.main import main_function
 from package.downloading import downloader
+import nltk
+nltk.data.path.append("nltk_data")
 
 app = Flask(__name__)
 

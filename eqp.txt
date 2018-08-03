@@ -373,4 +373,121 @@ ventilator
 Ventilator with Air Compressor
 Perfusor Compact
 Ventilator
+shock wavesPortable Ventilator
+monitoring
+Portable Ventilator with Air Compressor
+Biphasic Defibrillator
+Blood and Infusion Warmer
+Multi-Parameter Patient Monitor
+Ventilator with Air Compressor
+Multi-Parameter Patient Monitor
+Perfusor Compact
+Warmer
+Defibrillator
+Left Ventricular Assist Deviceclamp
+gauze
+Blood and Infusion Warmer
+diaphragm
+needle
+draped
+Monitoring devices
+wires
+venous cannula
+chest tube
+suture
+wire
+monitoring
+Prolene suture
+Holter Monitor
+Ventricular Assist device
+Ventilator with Air Compressor
+Warmer
+sutured
+Perfusor Compact
+Ventilator
+cannula
+Implantable
+tourniquetPortable Ventilator
+monitoring
+Portable Ventilator with Air Compressor
+Biphasic Defibrillator
+Blood and Infusion Warmer
+Multi-Parameter Patient Monitor
+Ventilator with Air Compressor
+Multi-Parameter Patient Monitor
+Perfusor Compact
+Warmer
+Defibrillator
+Left Ventricular Assist Deviceclamp
+gauze
+Blood and Infusion Warmer
+diaphragm
+needle
+draped
+Monitoring devices
+wires
+venous cannula
+chest tube
+suture
+wire
+monitoring
+Prolene suture
+Holter Monitor
+Ventricular Assist device
+Ventilator with Air Compressor
+Warmer
+sutured
+Perfusor Compact
+Ventilator
+cannula
+Implantable
+tourniquetPortable Ventilator
+monitoring
+Portable Ventilator with Air Compressor
+Biphasic Defibrillator
+Blood and Infusion Warmer
+Multi-Parameter Patient Monitor
+Ventilator with Air Compressor
+Multi-Parameter Patient Monitor
+Perfusor Compact
+Warmer
+Defibrillator
+Left Ventricular Assist DevicevalvePortable Ventilator
+monitoring
+Portable Ventilator with Air Compressor
+Biphasic Defibrillator
+Blood and Infusion Warmer
+Multi-Parameter Patient Monitor
+Ventilator with Air Compressor
+Multi-Parameter Patient Monitor
+Perfusor Compact
+Warmer
+Defibrillator
+Left Ventricular Assist Devicesutures
+drain
+monitor
+Vicryl sutures
+draped
+Ventilator with Air Compressor
+suture
+dressingPortable Ventilator
+monitoring
+Portable Ventilator with Air Compressor
+Biphasic Defibrillator
+Blood and Infusion Warmer
+Multi-Parameter Patient Monitor
+Ventilator with Air Compressor
+Multi-Parameter Patient Monitor
+Perfusor Compact
+Warmer
+Defibrillator
+Left Ventricular Assist DeviceDoppler
+monitoring
+probe
+wires
+Ventricular Assist device
+ventilator
+Ventilator with Air Compressor
+Perfusor Compact
+Ventilator
 shock waves
