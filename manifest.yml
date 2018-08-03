@@ -1,4 +1,6 @@
 ---
 applications:
-- name: hospitalassist
+- name: bluemix-python-flask-sample
   memory: 128M
+env:
+    NLTK_DATA :nltk_data

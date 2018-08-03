@@ -1,0 +1,54 @@
+Patient Name,Age,Gender,MRN,Encounter,Speciality,Patient Vitals,Patient Current Condition,Patient condition:Risk score,Current Medication,Medication Requirement [Prescribed],Current Medical Equipment,Medical Equipments Required,Preparedness Instructions for receiving hospital
+Mr. Albert Fredman,62,Male,MRN,Inpatient,Cardiology,," The patient is known to me secondary to atrial fibrillation with slow ventricular response partially due to medications at least when I first saw him in the office on 011106. He is being seen on the Seventh Floor. The patient is in Room 7607. The patient has a history of recent adenocarcinoma of the duodenum that was found to be inoperable since it engulfed the porta hepatis. He was seen in my office on 011106 for preop evaluation due to leg edema. A nonocclusive DVT was diagnosed in the proximal left superficial femoral vein. An echocardiogram demonstrated an ejection fraction of 50. The patient was admitted to the hospital and treated with a Greenfield filter since anticoagulant was contraindicated. Additional information on the echocardiogram where a grossly dilated left atrium moderately severely dilated right atrium. The rhythm was as stated before atrial fibrillation with slow atrioventricular conduction and an intraventricular conduction delay on the monitor strip. There was mild to moderate tricuspid regurgitation mild pulmonic insufficiency. The ejection fraction was considered low normal since it was estimated 50 to 54. The leg edema improved while lying down suggesting that the significant element of venous insufficiency was indeed present. The patient who was diabetic received consultation by Dr R He was also a chronic hypertensive and was treated for that with ACE inhibitors. As a matter of fact they were discontinued. Now the patient denied any shortness of breath or chest pain throughout this hospitalization and cardiac nuclear studies performed earlier demonstrated no reversible ischemia. He is currently walking in the corridor with assistance. He is no longer on fluconazole.
+
+The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.",High,"Enoxaparin 25 mg prn
+Fentanyl patches
+Lansoprazole 45 mg PO Toradol25 mg
+Dilaudid 5 mg qid
+75 mg prn Zofran 20 mg
+Lopressor 75 mg prn He is on a sliding scale","Aspirin 100 mg - IV
+IV fluids now - Flucloxacillin 75 mg
+lisinopril to 20 mg daily
+Gentamicin 50 mg- IV
+Patient to continue same medications but Increase lisinopril to 20 mg daily to improve blood pressure management, add Aspirin 100 mg - IV x2","Doppler
+monitoring
+probe
+wires
+Ventricular Assist device
+ventilator
+Ventilator with Air Compressor
+Perfusor Compact
+Ventilator
+shock waves","Portable Ventilator
+monitoring
+Portable Ventilator with Air Compressor
+Biphasic Defibrillator
+Blood and Infusion Warmer
+Multi-Parameter Patient Monitor
+Ventilator with Air Compressor
+Multi-Parameter Patient Monitor
+Perfusor Compact
+Warmer
+Defibrillator
+Left Ventricular Assist Device","The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.
+
+Patient is under aggressive monitoring and medication therapy in CCU under the supervision of her Cardiologist Dr. Jane. In CCU patient is receiving continued monitoring through Left Ventricular Assist Device for hemodynamic assessment & optimization, Portable Ventilator with Air Compressor, Multi-Parameter Patient Monitor, Perfusor Compact, Biphasic Defibrillator and Blood and Infusion Warmer. Mrs. Elizabeth will be discharged after 2 days, after doing a routine post-surgical ECG and assessing the condition of the patient. Patient is under IV fluids now - Flucloxacillin 75 mg and Gentamicin 50 mg- IV x3, at CCU. Patient to continue same medications but Increase lisinopril to 20 mg daily to improve blood pressure management, add Aspirin 100 mg - IV x2
+
+Medication required: Aspirin 100 mg - IV
+IV fluids now - Flucloxacillin 75 mg
+lisinopril to 20 mg daily
+Gentamicin 50 mg- IV
+Patient to continue same medications but Increase lisinopril to 20 mg daily to improve blood pressure management, add Aspirin 100 mg - IV x2
+
+Medical Equipments Required:Portable Ventilator
+monitoring
+Portable Ventilator with Air Compressor
+Biphasic Defibrillator
+Blood and Infusion Warmer
+Multi-Parameter Patient Monitor
+Ventilator with Air Compressor
+Multi-Parameter Patient Monitor
+Perfusor Compact
+Warmer
+Defibrillator
+Left Ventricular Assist Device"

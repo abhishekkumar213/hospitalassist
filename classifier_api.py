@@ -21,10 +21,10 @@ def Welcome():
 
 port = os.getenv('VCAP_APP_PORT', '5000')
 if __name__ == "__main__":
-	downloader()
-	input_file = 'C:\Users\DivyaS\Desktop\#callforcode\code\\train\input\CV_IP Case_William_B222-tr762.txt'
+	#downloader()
+	#input_file = 'C:\Users\DivyaS\Desktop\#callforcode\code\\train\input\CV_IP Case_William_B222-tr762.txt'
 
-	json_data = main_function(input_file)
+	json_data = main_function()
 
 	with open('data.json', 'w') as outfile:
 		json.dump(json_data, outfile)

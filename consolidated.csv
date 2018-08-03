@@ -1,5 +1,5 @@
 Patient Name,Age,Gender,MRN,Encounter,Speciality,Patient Vitals,Patient Current Condition,Patient condition:Risk score,Current Medication,Medication Requirement [Prescribed],Current Medical Equipment,Medical Equipments Required,Preparedness Instructions for receiving hospital
-Mrs. Elizabeth,78,Male,MRN,Inpatient,Cardiology,," The patient is a 78yearold lady by name Mrs Elizabeth Smith with established history coronary artery disease and peripheral vascular disease with prior stentsupported angioplasty. The patient had presented to the hospital after having coughing episodes for about two weeks on and off and seemed to have also given her some shortness of breath. Patient complains of Painful cramping in thigh and calf muscles after certain activities such as walking or climbing stairs Leg numbness or weakness. The patient also complains of chest pain chest pressure or heaviness palpitations fluttering or awareness of heart activity. One daughter has early onset diabetes and one child has asthma. She has nine children 25 grandchildren. VITALS BP 165130 Temp 1004F Resp rate 18 per min Heart rate 9585 beatsmin irregular. Nuclear Stress study showed fixed inferolateral defects no reversible ischemia identified. She was put on Antibiotic IV fluids immediately with MultiParameter Patient Monitor monitoring her vitals temp heart rhythm pulse rate respiratory rate etc. Patient is under aggressive monitoring and medication therapy in CCU under the supervision of her Cardiologist Dr Jane.
+Mrs. Elizabeth,78,Male,MRN,Inpatient,Cardiology,," The patient is a 78yearold lady by name Mrs Elizabeth Smith with established history coronary artery disease and peripheral vascular disease with prior stentsupported angioplasty. The patient had presented to the hospital after having coughing episodes for about two weeks on and off and seemed to have also given her some shortness of breath. The patient was admitted and being treated for pneumonia according to her. Patient complains of Painful cramping in thigh and calf muscles after certain activities such as walking or climbing stairs Leg numbness or weakness. The patient also complains of chest pain chest pressure or heaviness palpitations fluttering or awareness of heart activity. However on monitor she was noticed to have PVCs random.
 
 The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.",High,"Allopurinol 100 mg daily
 Clopidogrel 75 mg daily
@@ -19,11 +19,11 @@ draped
 Monitoring devices
 wires
 venous cannula
-Prolene suture
-suture
 chest tube
+suture
 wire
-monitor
+monitoring
+Prolene suture
 Holter Monitor
 Ventricular Assist device
 Ventilator with Air Compressor
@@ -66,7 +66,7 @@ Perfusor Compact
 Warmer
 Defibrillator
 Left Ventricular Assist Device"
-Mrs.Carla Smith,78,Male,MRN,Inpatient,Cardiology,," The patient is a 78yearold lady by name MrsCarla Smith with established history coronary artery disease and peripheral vascular disease with prior stentsupported angioplasty. The patient had presented to the hospital after having coughing episodes for about two weeks on and off and seemed to have also given her some shortness of breath. Patient complains of Painful cramping in thigh and calf muscles after certain activities such as walking or climbing stairs Leg numbness or weakness. The patient also complains of chest pain chest pressure or heaviness palpitations fluttering or awareness of heart activity. One daughter has early onset diabetes and one child has asthma. She has nine children 25 grandchildren. Nuclear Stress study showed fixed inferolateral defects no reversible ischemia identified. She was put on Antibiotic IV fluids immediately with MultiParameter Patient Monitor monitoring her vitals temp heart rhythm pulse rate respiratory rate etc. Patient is under aggressive monitoring and medication therapy in CCU under the supervision of her Cardiologist Dr Jane.
+Mrs.Carla Smith,78,Male,MRN,Inpatient,Cardiology,," The patient is a 78yearold lady by name MrsCarla Smith with established history coronary artery disease and peripheral vascular disease with prior stentsupported angioplasty. The patient had presented to the hospital after having coughing episodes for about two weeks on and off and seemed to have also given her some shortness of breath. The patient was admitted and being treated for pneumonia according to her. Patient complains of Painful cramping in thigh and calf muscles after certain activities such as walking or climbing stairs Leg numbness or weakness. The patient also complains of chest pain chest pressure or heaviness palpitations fluttering or awareness of heart activity. However on monitor she was noticed to have PVCs random.
 
 The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.",High,"Allopurinol 100 mg daily
 Clopidogrel 75 mg daily
@@ -86,11 +86,11 @@ draped
 Monitoring devices
 wires
 venous cannula
-Prolene suture
-suture
 chest tube
+suture
 wire
-monitor
+monitoring
+Prolene suture
 Holter Monitor
 Ventricular Assist device
 Ventilator with Air Compressor
@@ -133,7 +133,7 @@ Perfusor Compact
 Warmer
 Defibrillator
 Left Ventricular Assist Device"
-Mrs.Elsa Sam,43,Female,MRN,Inpatient,Cardiology,," The patient is a 43year old female who relates the recent worsening of chronic chest discomfort. The quality of the pain is sharp and the problem started 2 years ago. Pain radiates to the back and condition is best described as severe. Patient denies syncope. Beyond baseline at present time. Past work up has included 24 hour Holter monitoring and echocardiography. Palpitations  frequent 2 x per week. No caffeine no ETOH. stress. No change with Inderal. VITALS BP 13095 Temp 994F Resp rate 18 per min Heart rate 85 beatsmin Wt. The patient is suffering from chronic chest discomfort. In addition to current medication patient has been advised to start Cardizem 3060 qid.
+Mrs.Elsa Sam,43,Female,MRN,Inpatient,Cardiology,," The patient is a 43year old female who relates the recent worsening of chronic chest discomfort. The quality of the pain is sharp and the problem started 2 years ago. Pain radiates to the back and condition is best described as severe. Patient denies syncope. Beyond baseline at present time. Past work up has included 24 hour Holter monitoring and echocardiography. Palpitations  frequent 2 x per week. No caffeine no ETOH. No change with Inderal.
 
 The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.",High,Inderal 20 prn,"Aspirin 100 mg - IV
 IV fluids now - Flucloxacillin 75 mg
@@ -172,24 +172,21 @@ Perfusor Compact
 Warmer
 Defibrillator
 Left Ventricular Assist Device"
-Mr. Robert Freeman,61,Male,MRN,Inpatient,Cardiology, The patient is a pleasant 61yearold gentleman Mr Robert Freeman with multiple myeloma," Latter occurred on 02052007. At that time he was on telemetry monitor and noticed to be in normal sinus rhythm. Father has an unspecified heart problem and diabetes. He has one sibling a 53yearold sister who has a pacemaker implanted for unknown reasons. The patient is married. Has four adult children. VITALS BP 13590 Temp 988F Resp rate 14 per min Heart rate 80 beatsmin Wt.
+Mr. Robert Freeman,61,Male,MRN,Inpatient,Cardiology,," The patient is a pleasant 61yearold gentleman Mr Robert Freeman with multiple myeloma. He is status post chemotherapy and autologous stem cell transplant. Latter occurred on 02052007. At that time he was on telemetry monitor and noticed to be in normal sinus rhythm. As part of study protocol for investigational drug for prophylaxis against mucositis he had electrocardiogram performed on 02062007. He was subsequently transferred to telemetry for observation. Cardiology consultation was requested. Prior to formal consultation the patient did have an echocardiogram performed on 02062007 which showed a structurally normal heart with normal left ventricular LV systolic function ejection fraction of 60 aortic sclerosis without stenosis a trivial pericardial effusion with no evidence for immunocompromise and mild tricuspid regurgitation with normal pulmonary atrial pressures. He has one sibling a 53yearold sister who has a pacemaker implanted for unknown reasons.
 
-The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.",High,"Levofloxacin 250 mg po daily
-Fluconazole 200 mg daily
+The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.",High,"Acyclovir 400 mg po bid
+Levofloxacin 250 mg po daily
 Filgrastim 300 mcg subcutaneous daily
 Pantoprazole 40 mg daily
-Ursodiol 300 mg po","Aspirin 100 mg - IV
+Fluconazole 200 mg daily
+Ursodiol 300 mg po bid","Aspirin 100 mg - IV
 IV fluids now - Flucloxacillin 75 mg
 lisinopril to 20 mg daily
 Gentamicin 50 mg- IV
-Patient to continue same medications but Increase lisinopril to 20 mg daily to improve blood pressure management, add Aspirin 100 mg - IV x2","Blood Pressure monitor
-sutures
+Patient to continue same medications but Increase lisinopril to 20 mg daily to improve blood pressure management, add Aspirin 100 mg - IV x2","sutures
 drain
-monitored
 monitor
 Vicryl sutures
-valve
-ECG Machine
 draped
 Ventilator with Air Compressor
 suture
@@ -226,34 +223,26 @@ Perfusor Compact
 Warmer
 Defibrillator
 Left Ventricular Assist Device"
-Mr. Albert Fredman,62,Male,MRN,Inpatient,Cardiology,," The patient is known to me secondary to atrial fibrillation with slow ventricular response partially due to medications at least when I first saw him in the office on 011106. This gentleman is Mr William Rodricks and is now 82years old. He is being seen on the Seventh Floor. The patient has a history of recent adenocarcinoma of the duodenum that was found to be inoperable since it engulfed the porta hepatis. He was seen in my office on 011106 for preop evaluation due to leg edema. The ejection fraction was considered low normal since it was estimated 50 to 54. The leg edema improved while lying down suggesting that the significant element of venous insufficiency was indeed present. Now the patient denied any shortness of breath or chest pain throughout this hospitalization and cardiac nuclear studies performed earlier demonstrated no reversible ischemia. He received his immunizations with flu in 2005 but did not receive Pneumovax. He is currently walking in the corridor with assistance. He is on a sliding scale as per Dr Holden. The patient is married. He had 1 child who died at the age of 46 years of unknown etiology. VITALS BP 170150 Temp 1016F Resp rate 22 per min Heart rate 9280 beatsmin. The patient remained in atrial fibrillation. She has been put on Antibiotic IV fluids immediately with MultiParameter Patient Monitor monitoring her vitals temp heart rhythm pulse rate respiratory rate etc. Patient is under aggressive monitoring and medication therapy in ICU under the supervision of her Cardiologist Dr Holden.
+Mr. Albert Fredman,62,Male,MRN,Inpatient,Cardiology,," The patient is known to me secondary to atrial fibrillation with slow ventricular response partially due to medications at least when I first saw him in the office on 011106. He is being seen on the Seventh Floor. The patient is in Room 7607. The patient has a history of recent adenocarcinoma of the duodenum that was found to be inoperable since it engulfed the porta hepatis. He was seen in my office on 011106 for preop evaluation due to leg edema. A nonocclusive DVT was diagnosed in the proximal left superficial femoral vein. An echocardiogram demonstrated an ejection fraction of 50. The patient was admitted to the hospital and treated with a Greenfield filter since anticoagulant was contraindicated. Additional information on the echocardiogram where a grossly dilated left atrium moderately severely dilated right atrium. The rhythm was as stated before atrial fibrillation with slow atrioventricular conduction and an intraventricular conduction delay on the monitor strip. There was mild to moderate tricuspid regurgitation mild pulmonic insufficiency. The ejection fraction was considered low normal since it was estimated 50 to 54. The leg edema improved while lying down suggesting that the significant element of venous insufficiency was indeed present. The patient who was diabetic received consultation by Dr R He was also a chronic hypertensive and was treated for that with ACE inhibitors. As a matter of fact they were discontinued. Now the patient denied any shortness of breath or chest pain throughout this hospitalization and cardiac nuclear studies performed earlier demonstrated no reversible ischemia. He is currently walking in the corridor with assistance. He is no longer on fluconazole.
 
-The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.",High,"Lopressor 75 mg prn
-Enoxaparin 25 mg prn
+The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.",High,"Enoxaparin 25 mg prn
 Fentanyl patches
 Lansoprazole 45 mg PO Toradol25 mg
 Dilaudid 5 mg qid
-75 mg prn Zofran 20 mg","Aspirin 100 mg - IV
+75 mg prn Zofran 20 mg
+Lopressor 75 mg prn He is on a sliding scale","Aspirin 100 mg - IV
 IV fluids now - Flucloxacillin 75 mg
 lisinopril to 20 mg daily
 Gentamicin 50 mg- IV
-Patient to continue same medications but Increase lisinopril to 20 mg daily to improve blood pressure management, add Aspirin 100 mg - IV x2","wires
-Blood and Infusion Warmer
-probe
-Ventilator
-strip
-monitor
-Portable Ventilator
-Doppler
+Patient to continue same medications but Increase lisinopril to 20 mg daily to improve blood pressure management, add Aspirin 100 mg - IV x2","Doppler
 monitoring
-Portable Ventilator with Air Compressor
-Biphasic Defibrillator
-Greenfield filter
+probe
+wires
 Ventricular Assist device
+ventilator
 Ventilator with Air Compressor
-Warmer
 Perfusor Compact
-Defibrillator
+Ventilator
 shock waves","Portable Ventilator
 monitoring
 Portable Ventilator with Air Compressor
