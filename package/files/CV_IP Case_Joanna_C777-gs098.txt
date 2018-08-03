@@ -1,0 +1,43 @@
+Patient Name: Mrs.Elsa Sam
+Age: 43
+Date of Birth: 04/18/1974
+Gender: Female
+MRN: 1234367
+Encounter Id: QSD34765
+ER Admit date: 02/11/18
+ER Discharge date:02/16/18 
+
+The patient is a 43-year old female who relates the recent worsening of chronic chest discomfort. The quality of the pain is sharp, and the problem started 2 years ago. Pain radiates to the back and condition is best described as severe. Patient denies syncope. Beyond baseline at present time. Past work up has included 24- hour Holter monitoring and echocardiography.
+
+
+Palpitations - frequent, 2 x per week. No caffeine, no ETOH. + stress. No change with Inderal.
+Patient has documented mitral valve regurgitation on echocardiography in 2002
+No significant past medical problems. Mitral Valve Prolapse.
+
+
+Inderal 20 prn
+
+
+No known drug allergies/Intolerances
+
+
+Non-contributory
+
+
+Denies using caffeinated beverages, alcohol or the use of any tobacco products
+
+
+VITALS: BP: 130/95, Temp: 99.4°F, Resp rate: 18 per min, Heart rate: 85 beats/min, Wt.: 175 pounds, Ht: 180 cms, BMI: 25
+Transthoracic Echocardiogram was performed to assess the aortic value area
+The left ventricle was normal in size and dimensions with normal LV function. Ejection fraction was 50% to 55%. Concentric hypertrophy noted with interventricular septum measuring 1.6 cm, posterior wall measuring 1.2 cm. Left atrium is enlarged, measuring 4.42 cm. Right-sided chambers are normal in size and dimensions. Aortic root has normal diameter.
+
+Mitral and Tricuspid valve reveals no calcification. Fibrocalcific valve leaflets noted with adequate excursion. Similar findings noted on the aortic valve as well with significantly adequate excursion of valve leaflets. Atrial and ventricular septum are intact. Pericardium is intact without any effusion. No obvious intracardiac mass or thrombi noted.
+
+Doppler study reveals mild-to-moderate mitral regurgitation. Severe aortic stenosis with peak velocity of 2.76 with calculated ejection fraction 50% to 55% with severe aortic stenosis. There is also mitral stenosis.
+
+
+The patient is suffering from chronic chest discomfort. No abnormal findings
+
+
+The patient has been advised to follow up with her PCP for Treadmill Test, Echocardiograms in 8 weeks. In addition to current medication, patient has been advised to start Cardizem 30-60 q.i.d
+

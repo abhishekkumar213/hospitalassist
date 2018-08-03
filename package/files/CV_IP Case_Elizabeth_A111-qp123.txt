@@ -1,0 +1,42 @@
+Patient Name: Mrs.Carla Smith
+Age: 78
+Date of Birth: 04/18/1942 
+Gender: Male
+MRN: 1234367
+Encounter Id: QSD34765
+ER Admit date: 02/11/18
+ER Discharge date:02/16/18 
+
+
+The patient is a 78-year-old lady by name Mrs.Carla Smith with established history coronary artery disease and peripheral vascular disease with prior stent-supported angioplasty. The patient had presented to the hospital after having coughing episodes for about two weeks on and off and seemed to have also given her some shortness of breath. The patient was admitted and being treated for pneumonia, according to her. Patient complains of Painful cramping in thigh and calf muscles after certain activities, such as walking or climbing stairs, Leg numbness or weakness. The patient also complains of chest pain, chest pressure, or heaviness, palpitations, fluttering, or awareness of heart activity. However, on monitor, she was noticed to have PVCs random. 
+
+The patient is positive for coronary artery disease since 2002. Also has history of peripheral vascular disease for over 10 years, COPD and Hypertension
+
+Clopidogrel 75 mg daily, Allopurinol 100 mg daily, Lisinopril 10 mg a day, Metoprolol 25 mg a day, Atorvastatin 10 mg daily and Levothyroxine 100 mcg a day,
+
+No know medication allergies
+
+
+No history of premature coronary artery disease. One daughter has early onset diabetes and one child has asthma
+
+
+She is married and retired. She has nine children, 25 grandchildren. She smokes one pack per day. And has no intentions of quitting according to her.
+
+
+White blood cell counts 20, hematocrit 40.2, platelets 377. Differential included 92 neutrophils
+CBC: NA 142, Potassium 4.5, chloride 102, CO2 22.6, BUN 15, creatinine 1.2, glucose 186 Serum Troponin I: 2.5
+Echocardiogram showed severe Bi-Atrial enlargement, normal thickening of the left ventricle with mildly dilated ventricle, EF of 40%, mild mitral regurgitation, and diastolic dysfunction, grade 2.
+Nuclear Stress study showed fixed inferolateral defects, no reversible ischemia identified.
+
+Right Femoral Popliteal Bypass surgery
+The patient was brought to the operating room at 10:15am and placed in the supine position. Adequate general endotracheal anaesthesia was induced. Implantable Cardioverter-Defibrillator and Holter Monitoring devices, Ventricular Assist device for hemodynamic management, Ventilator with Air Compressor, Multi-Parameter Patient Monitor, Perfusor Compact and Blood and Infusion Warmer were placed appropriately. The chest, abdomen and legs were prepped and draped in the sterile fashion. The right greater saphenous vein was harvested and prepared by ligating all branches with 4-0 Surgilon and flushed with heparinized blood. Haemostasis was achieved in the legs and closed with running 2-0 Dexon in the subcutaneous tissue and running 3-0 Dexon subcuticular in the skin. Median sternotomy incision was made, and the left mammary artery was dissected free from its take off of the subclavian to its bifurcation at the diaphragm and surrounded with papaverine-soaked gauze. The pericardium was opened. The pericardial cradle was created. The patient was fully heparinized and cannulated with a single aortic and single venous cannula and bypass was instituted. A retrograde cardioplegic cannula was placed with a pursestring suture of 4-0 Prolene suture in the right atrial wall into the coronary sinus and tied to a Rumel tourniquet. An antegrade cardioplegic needle sump combination was placed in the ascending aorta and tied in place with 4-0 Prolene. The ascending aorta was cross clamped. Cold blood potassium cardioplegia was given to the ascending aorta followed by sumping through the ascending aorta followed by cold retrograde potassium cardioplegia. The obtuse marginal coronary artery was identified and opened, and end-to-side anastomosis was performed to the reversed autogenous saphenous vein with running 7-0 Prolene suture and the vein was cut to length. Cold antegrade and retrograde cardioplegia were given and the posterior descending branch of the right coronary artery was identified and opened. End-to-side anastomosis was performed with a running 7-0 Prolene suture and the vein was cut to length. Cold antegrade and retrograde potassium cardioplegia were given. The mammary artery was clipped distally, divided and spatulated for anastomosis. The anterior descending was identified and opened. End-to-side anastomosis was performed through the left internal mammary artery with running 8-0 Prolene suture. The mammary pedicle was sutured to the heart with interrupted 5-0 Prolene suture. A warm antegrade and retrograde cardioplegia were given. The aortic cross clamp was removed. The partial occlusion clamp was placed. Aortotomies were made. The veins were cut to fit these and sutured in place with running 5-0 Prolene suture. A partial occlusion clamp was removed. All anastomoses were inspected and noted to be patent and dry. Ventricular and atrial pacing wires were placed. The patient was fully warmed and weaned from cardiopulmonary bypass. The patient was decannulated in the routine fashion and Protamine was given. Good haemostasis was noted. A single mediastinal and left pleural chest tube were placed. The sternum was closed with interrupted wire, linea alba with running 0 Prolene, the sternal fascia was closed with running 0 Prolene, the subcutaneous tissue with running 2-0 Dexon and the skin with running 3-0 Dexon subcuticular stitch. 
+
+The patient responded well to the procedure. The patient is now transferred to Coronary Care Unit at 11:00 am. She was put on Antibiotic IV fluids immediately with Multi-Parameter Patient Monitor monitoring her vitals, temp, heart rhythm, pulse rate, respiratory rate etc.
+
+
+The patient was diagnosed to be suffering from Ventricular Ectopy, Peripheral Artery disease, Coronary Artery disease and Ischemic Cardiomyopathy for which she underwent Right Femoral Popliteal Bypass surgery at 10:15am and was moved to Coronary Care Unit at 11:00am in a stable condition. The patient tolerated the procedure well. No complications.
+
+
+Patient is under aggressive monitoring and medication therapy in CCU under the supervision of her Cardiologist Dr. Jane. In CCU patient is receiving continued monitoring through Left Ventricular Assist Device for hemodynamic assessment & optimization, Portable Ventilator with Air Compressor, Multi-Parameter Patient Monitor, Perfusor Compact, Biphasic Defibrillator and Blood and Infusion Warmer.
+Mrs.Carla Smith will be discharged after 2 days, after doing a routine post-surgical ECG and assessing the condition of the patient. Patient is under IV fluids now - Flucloxacillin 75 mg and Gentamicin 50 mg- IV x3, at CCU. Patient to continue same medications but Increase lisinopril to 20 mg daily to improve blood pressure management, add Aspirin 100 mg - IV x2
+

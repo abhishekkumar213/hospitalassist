@@ -1,0 +1,4 @@
+Flask==0.10.1
+nltk==3.2.4
+requests==2.18.4
+pandas==0.20.3

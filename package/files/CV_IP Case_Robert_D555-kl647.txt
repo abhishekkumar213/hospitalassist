@@ -1,0 +1,43 @@
+Patient Name: Mr. Robert Freeman
+Age: 61
+Date of Birth: 04/18/1942 
+Gender: Male
+MRN: 1234487
+Encounter Id: QSD44765
+ER Admit date: 02/6/18
+ER Discharge date:02/16/18 
+
+The patient is a pleasant 61-year-old gentleman, Mr. Robert Freeman with multiple myeloma. He is status post chemotherapy and autologous stem cell transplant. Latter occurred on 02/05/2007. At that time, he was on telemetry monitor and noticed to be in normal sinus rhythm.
+
+As part of study protocol for investigational drug for prophylaxis against mucositis, he had electrocardiogram performed on 02/06/2007. This demonstrated underlying rhythm of atrial fibrillation with rapid ventricular response at 125 beats per minute. He was subsequently transferred to telemetry for observation. Cardiology consultation was requested. Prior to formal consultation, the patient did have an echocardiogram performed on 02/06/2007, which showed a structurally normal heart with normal left ventricular (LV) systolic function, ejection fraction of 60%, aortic sclerosis without stenosis, a trivial pericardial effusion with no evidence for immunocompromise and mild tricuspid regurgitation with normal pulmonary atrial pressures. 
+
+Multiple myeloma, diagnosed in June of 2006, status post treatment with thalidomide and Coumadin. Subsequently, with high-dose chemotherapy followed by autologous stem cell transplant
+
+
+Acyclovir 400 mg p.o. b.i.d., Filgrastim 300 mcg subcutaneous daily, Fluconazole 200 mg daily, Levofloxacin 250 mg p.o. daily, Pantoprazole 40 mg daily, Ursodiol 300 mg p.o. b.i.d.
+
+No known allergies 
+
+Father has an unspecified heart problem and diabetes. Mother has no significant medical problems. He has one sibling, a 53-year-old sister, who has a pacemaker implanted for unknown reasons
+
+The patient is married. Has four adult children. Good health. He is a lifetime non-smoker, social alcohol drinker
+
+
+VITALS: BP: 135/90, Temp: 98.8°F, Resp rate: 14 per min, Heart rate: 80 beats/min, Wt.: 190 pounds, Ht: 182 cms and BMI: 27
+
+
+EKG, electrocardiogram showed underlying rhythm of atrial fibrillation with a rate of 125 beats per minute. Nonspecific ST-T wave abnormality is seen in the inferior leads only.
+White blood cell count is 9.8, haematocrit of 30 and platelets 395. INR is 0.9. Sodium 136, potassium 4.2, BUN 43 with a creatinine of 2.0, and magnesium 2.9. AST and ALT 60 and 50. Lipase 343 and amylase 109. BNP 908. Troponin was less than 0.02.
+
+Emergent Subxiphoid Pericardial window and Trans-Oesophageal Echocardiogram
+General endotracheal anaesthesia. 
+The patient was noted to have 600 mL of dark bloody fluid around the pericardium. We could see the effusion resolve on echocardiogram. The aortic valve appeared to have good movement in the leaflets with no perivalvular leaks. There was no evidence of endocarditis. The mitral valve leaflets moved normally with some mild mitral insufficiency.
+
+The patient was brought to the operating room emergently. After adequate general endotracheal anesthesia, his chest was prepped and draped in the routine sterile fashion. A small incision was made at the bottom of the previous sternotomy incision. The subcutaneous sutures were removed. The dissection was carried down into the pericardial space. Blood was evacuated without any difficulty. Pericardial Blake drain was then placed. The fascia was then reclosed with interrupted Vicryl sutures. The subcutaneous tissues were closed with a running Monocryl suture. A subdermal PDS followed by a subcuticular Monocryl suture were all performed. The wound was closed with Dermabond dressing and placed on Ventilator with Air Compressor and Telemetry monitor. The procedure was terminated at this point. The patient tolerated the procedure well and was shifted to ward in stable condition
+
+
+The patient is diagnosed to be suffering from Endocarditis, Status Post Aortic Valve Replacement with St. Jude mechanical valve and Pericardial tamponade.
+
+
+Patient has been advised to continue current medications. We will initiate therapy with Amiodarone 150 mg intravenous injection, also Investigational drug is directed ondansetron 24 mg p.r.n. If he does not have spontaneous cardioversion, we will consider either electrical cardioversion or anticoagulation with heparin within 24 hours from initiation of amiodarone. As part of amiodarone protocol, please check TSH. Given his pre-existing mild elevation of transaminases, we will follow LFTs closely, while on amiodarone. Patient is monitored with Blood Pressure monitor, hand held ECG Machine and Telemetry monitor
+Since the patient responded well to the procedure and is good, stable condition he is planned to be discharged tomorrow

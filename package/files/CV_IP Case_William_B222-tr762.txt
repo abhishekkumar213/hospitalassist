@@ -1,0 +1,61 @@
+Patient Name: Mr. Albert Fredman
+Age: 62
+Date of Birth: 04/18/1942 
+Gender: Male
+MRN: 1223487
+Encounter Id: QSD23765
+ER Admit date: 02/9/18
+ER Discharge date:02/16/18
+
+The patient is known to me secondary to atrial fibrillation with slow ventricular response, partially due to medications, at least when I first saw him in the office on 01/11/06. This gentleman is Mr. William Rodricks and is now 82-years old. He is being seen on the Seventh Floor. The patient is in Room 7607. The patient has a history of recent adenocarcinoma of the duodenum that was found to be inoperable, since it engulfed the porta hepatis. The workup began with GI bleeding. He was seen in my office on 01/11/06 for preop evaluation due to leg edema. A nonocclusive DVT was diagnosed in the proximal left superficial femoral vein. Both legs were oedematous, and bilateral venous insufficiency was also present. An echocardiogram demonstrated an ejection fraction of 50%. 
+
+The patient was admitted to the hospital and treated with a Greenfield filter since anticoagulant was contraindicated. Additional information on the echocardiogram, where a grossly dilated left atrium, moderately severely dilated right atrium. The rhythm was, as stated before, atrial fibrillation with slow atrioventricular conduction and an intraventricular conduction delay on the monitor strip. There was mild to moderate tricuspid regurgitation, mild pulmonic insufficiency. The ejection fraction was considered low normal, since it was estimated 50 to 54%. The patient received blood while in the hospital due to anaemia. The leg edema improved while lying down, suggesting that the significant element of venous insufficiency was indeed present. 
+The patient, who was diabetic, received consultation by Dr. R. He was also a chronic hypertensive and was treated for that with ACE inhibitors. The atrial fibrillation was slow, and no digitalis or beta blockers were recommended at the same time. As a matter of fact, they were discontinued. Now, the patient denied any shortness of breath or chest pain throughout this hospitalization, and cardiac nuclear studies performed earlier demonstrated no reversible ischemia
+
+
+His cardiac issues are chronic and most likely secondary to long term hypertension and diabetes. He received his immunizations with flu in 2005 but did not receive Pneumovax.
+The patient is wheelchair bound at the time of his initial hospitalization. He is currently walking in the corridor with assistance. Nocturia twice to 3 times per night.
+
+Current medications include Enalapril-10 mg x2, Enoxaparin- 25 mg p.r.n, Fentanyl patches, Lansoprazole- 45 mg PO, Toradol-25 mg, Piperacillin/ Tazobactam- 50 mg, Hydralazine-75 mg p.r.n.
+Zofran- 20 mg, Dilaudid- 5 mg q.i.d, Lopressor- 75 mg p.r.n. He is no longer on fluconazole. He is on a sliding scale as per Dr. Holden. 
+
+No known drug allergies/Intolerances
+
+
+Mother had cancer, died at 70. Father died of unknown cause, and brother died of unknown cause.
+
+
+The patient is married. He had 1 child who died at the age of 46 years of unknown etiology. He quit smoking 6 years ago but dips (smokeless) tobacco
+
+VITALS: BP: 170/150, Temp: 101.6°F, Resp rate: 22 per min, Heart rate: 92-80 beats/min. Wt.: 311 pounds, Ht: 180 cms and BMI: 32
+
+Laboratory: Current EKG demonstrates atrial fibrillation with incomplete left bundle branch block pattern. Q waves are noticed in the inferior leads. Non-progression of the R-wave from V1 to V4 with small R-waves in V5 and V6 are suggestive of an old anterior and inferior infarct. Left ventilator hypertrophy and strain is suspected
+
+Trans-Oesophageal Echocardiogram and direct current Cardioversion
+After informed consent was obtained, the patient was then sedated using a total of 4 mg of Versed and 50 mcg of fentanyl. Adequate general endotracheal anaesthesia was induced. Cardioverter-Defibrillator, Ventricular Assist device for hemodynamic management, Ventilator with Air Compressor, Multi-Parameter Patient Monitor, Perfusor Compact were placed appropriately. Following this, trans-oesophageal probe was placed in the oesophagus. Trans-oesophageal views of the heart were then obtained.
+Left ventricle is of normal size. Overall LV systolic function is preserved. Estimated ejection fraction is 60% to 65%. No wall motion abnormalities are noted.
+Left atrium is dilated.
+Left atrial appendage is free of clots.
+Right atrium is of normal size.
+Right ventricle is of normal size.
+Mitral valve shows evidence of mild MAC.
+Aortic valve is sclerotic without significant restriction of leaflet motion.
+Tricuspid valve appears normal.
+Pulmonic valve appears normal.
+Pacer wires are noted in the right atrium and in the right ventricle.
+Doppler interrogation of moderate mitral regurgitation is present.
+Mild-to-moderate AI is seen.
+No significant TR is noted.
+No significant TI is noted.
+No pericardial disease seen.
+
+Following these, direct current cardioversion was performed. Three biphasic shock waves of 150 and two of 200 joules were then applied to the patient's chest in anteroposterior direction without success in conversion to sinus rhythm. The patient remained in atrial fibrillation
+
+The patient responded well to the procedure. The patient is now transferred to Intensive Care Unit. She has been put on Antibiotic IV fluids immediately with Multi-Parameter Patient Monitor monitoring her vitals, temp, heart rhythm, pulse rate, respiratory rate etc.
+
+The patient is diagnosed with preserved Left Ventricular Systolic function, Chronic Atrial fibrillation, Dilated Left Atrium, Moderate Mitral Regurgitation, Aortic valve Sclerosis with mild-to-moderate aortic insufficiency.
+
+Patient is under aggressive monitoring and medication therapy in ICU under the supervision of her Cardiologist Dr. Holden. In ICU patient is receiving continued monitoring through Portable Ventilator with Air Compressor, Multi-Parameter Patient Monitor, Perfusor Compact, Biphasic Defibrillator and Blood and Infusion Warmer
+
+Mr. Williams will be discharged after 4 days, after doing a routine post-surgical ECG and assessing the condition of the patient. Patient is under IV fluids now - Flucloxacillin 75 mg and Gentamicin 50 mg- IV x3, at ICU. Patient to continue same medications, add Aspirin 100 mg - IV x2. Plan will be to continue medical therapy. We will consider using beta-blocker, calcium channel blockers for better ventricular rate control. At this point, I agree with the notion of Hospice care. If his atrioventricular conduction becomes excessive, occasional Non-Dihydropyridine calcium channel blocker such as diltiazem or beta blockers would be appropriate; otherwise, I would keep him off those medications due to evidence of slow conduction in the presence of digitalis and beta blockers
+
